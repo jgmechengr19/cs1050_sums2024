@@ -1,0 +1,23 @@
+_______TERMINAL COMMANDS_________   LAB_0
+
+cd         change directory
+ls         lists folders
+cd ..      goes back up one file
+touch lab0.c      creates an empty file
+nano --version
+mkdir makes a new directory/folder
+pwd     shows file path
+cat      shows file contents
+gcc lab0.c -o lab0        -o is option to rename executable to lab0
+rm lab0         removes lab0 from the current directory
+gcc lab0.c -Wall -Werror -o lab0     doesn't allow executable with errors
+
+casting is changing from one file type to another 
+scanf treats space as a separate input
+
+-In terminal Editors-
+vim   exit, wq (write/quit)
+nano
+
+
+Organizations -  reu ru  MCA IEEE 

@@ -1,0 +1,12 @@
+
+---- For compiling using gcc
+
+>>gcc sourcefile.c -o programName
+
+
+
+-------## for seeing your windows folders
+When you see your Linux command prompt, type:
+
+cd /mnt/c/Users/username
+Where c means C: drive and username is your Windows username. Then, when you type ls, you will see folders like Desktop, Documents, Downloads, etc.
